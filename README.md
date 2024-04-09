@@ -1,3 +1,25 @@
+### Homework for the discipline "Methods and tools of software development."
+### It was necessary to develop a website on the topic: "Fishing" taking into account the requirements for css files.
+
+### Header style:
+Arial 16, raised, all caps, level 1, no hyphens, always from a new page, right aligned, spacing after 16 pt, next paragraph style - style for subheading.
+
+### Subtitle style:
+TNR 12, F, all capitals, with shadow, level 2, right alignment, spacing after 14 pt, line spacing 20 pt exactly, the style of the next paragraph is the style of the main text.
+
+### Style for general text:
+Courier New 14, K, body text level, justified, red line 2 cm, line spacing 1.5 spaces.
+
+### Site requirements:
+- Map with links to descriptions of its elements
+- Table
+- List
+- Anchors for moving up and down to other pages
+- Links to download source information, photos, etc.
+- Link to email
+- Links to similar official sites
+- Apply CSS on all pages
+
 ### Instructions for using the "Fishing" project
 
 The Fishing Project is a web application that contains information about different types of fish, a map of fishing spots, a collection of fish and additional information about fishing.
