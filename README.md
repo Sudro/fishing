@@ -1,4 +1,4 @@
-### Homework for the discipline "Methods and tools of software development."
+### Homework for the discipline "Methods and tools of software development".
 ### It was necessary to develop a website on the topic: "Fishing" taking into account the requirements for css files.
 
 ### Header style:
